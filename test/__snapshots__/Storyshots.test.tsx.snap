@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button First Button 1`] = `
+<button
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "border": "none",
+      "borderRadius": 70,
+      "color": "white",
+      "cursor": "pointer",
+      "padding": 6,
+    }
+  }
+>
+  Default Text
+</button>
+`;
+
+exports[`Storyshots Button Second Button 1`] = `
+<button
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "grey",
+      "border": "none",
+      "borderRadius": 70,
+      "color": "white",
+      "cursor": "pointer",
+      "padding": 6,
+    }
+  }
+>
+  I am secondary
+</button>
+`;
